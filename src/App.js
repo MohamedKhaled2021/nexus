@@ -7,6 +7,8 @@ import Login from './components/Login';
 import Register from './components/Register';
 import AboutUs from './components/AboutUs'; // Import the About Us component
 import BRDForm from './components/BRDGenerator'; // Import the About Us component
+import ContactPage from './components/ContactPage';
+import FeaturesAndFAQ from './components/FeaturesAndFAQ';
 
 import 'animate.css';
 
@@ -47,6 +49,8 @@ function App() {
             <Route path="/register" element={<Register setUser={setUser} />} />
             <Route path="/about" element={<AboutUs />} /> {/* Add About Us route */}
             <Route path="/brd" element={<BRDForm />} /> {/* Add About Us route */}
+            <Route path="/contact" element={<ContactPage/>} /> {/* Add About Us route */}
+            <Route path="/features" element={<FeaturesAndFAQ/>} /> {/* Add About Us route */}
 
           </Routes>
         </div>

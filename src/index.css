@@ -515,3 +515,43 @@ code {
 .T_bg{
   background-color: transparent;
 }
+
+.sub-brd{
+  background-color: #d1d5db;
+}
+
+.txt{
+  color:white;
+}
+
+.form-outer{
+  border: solid 1px gray;
+  border-radius: 0.375rem;
+  max-width: 75%;
+  padding: 48px;
+  background-color: rgba(61, 61, 61, .3);
+}
+
+.form-field{
+  border: solid 1px gray;
+  border-radius: 0.375rem;
+  background-color: rgba(61, 61, 61, .3);
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+  min-height: 50px;
+  margin-bottom: 12px;
+  padding: 12px 16px;
+  transition: border-color .3s;
+}
+
+.w-input:focus, .w-select:focus {
+  border-color: #461fb0;
+  outline: 0;
+}
+
+.form-button:hover{
+  transform: scale(.95);
+}
+.form-button{
+  transition: background-color .3s, border-color .3s, transform .3s;
+}

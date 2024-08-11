@@ -39,7 +39,7 @@ const BRDForm = () => {
           required
         />
         <br />
-        <button type="submit">Generate BRD</button>
+        <button className='sub-brd' type="submit">Generate BRD</button>
       </form>
 
       {loading && <p>Loading... Please wait while the document is being generated.</p>}
@@ -47,7 +47,7 @@ const BRDForm = () => {
       {error && <p style={{ color: 'red' }}>{error}</p>}
 
       {document && (
-        <div>
+        <div className='txt'>
           <h2>Generated BRD:</h2>
           <pre>{document}</pre>
         </div>
