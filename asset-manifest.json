@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nexus-frontend/static/css/main.44be0c7e.css",
-    "main.js": "/nexus-frontend/static/js/main.03c660bf.js",
-    "static/js/453.709d376a.chunk.js": "/nexus-frontend/static/js/453.709d376a.chunk.js",
-    "static/media/Home_UP.png": "/nexus-frontend/static/media/Home_UP.5306a7ec419d9d94e9f4.png",
-    "static/media/nour.jpg": "/nexus-frontend/static/media/nour.91261d9ad201570d4ba9.jpg",
-    "static/media/Home_Mid.png": "/nexus-frontend/static/media/Home_Mid.77a8d9fbe76ed8b2efbd.png",
-    "static/media/img.png": "/nexus-frontend/static/media/img.68217ba4ba5e7ff2bba2.png",
-    "static/media/imger.png": "/nexus-frontend/static/media/imger.921d3f4104920f4098f2.png",
-    "static/media/X.jpeg": "/nexus-frontend/static/media/X.cc6ab1e6baecc93f941c.jpeg",
-    "static/media/insta.png": "/nexus-frontend/static/media/insta.726b040d6ab305fdcfa6.png",
-    "static/media/linked.png": "/nexus-frontend/static/media/linked.4fb57288580425413d0f.png",
-    "index.html": "/nexus-frontend/index.html",
-    "main.44be0c7e.css.map": "/nexus-frontend/static/css/main.44be0c7e.css.map",
-    "main.03c660bf.js.map": "/nexus-frontend/static/js/main.03c660bf.js.map",
-    "453.709d376a.chunk.js.map": "/nexus-frontend/static/js/453.709d376a.chunk.js.map"
+    "main.css": "/static/css/main.44be0c7e.css",
+    "main.js": "/static/js/main.ef677538.js",
+    "static/js/453.709d376a.chunk.js": "/static/js/453.709d376a.chunk.js",
+    "static/media/Home_UP.png": "/static/media/Home_UP.5306a7ec419d9d94e9f4.png",
+    "static/media/nour.jpg": "/static/media/nour.91261d9ad201570d4ba9.jpg",
+    "static/media/Home_Mid.png": "/static/media/Home_Mid.77a8d9fbe76ed8b2efbd.png",
+    "static/media/img.png": "/static/media/img.68217ba4ba5e7ff2bba2.png",
+    "static/media/imger.png": "/static/media/imger.921d3f4104920f4098f2.png",
+    "static/media/X.jpeg": "/static/media/X.cc6ab1e6baecc93f941c.jpeg",
+    "static/media/insta.png": "/static/media/insta.726b040d6ab305fdcfa6.png",
+    "static/media/linked.png": "/static/media/linked.4fb57288580425413d0f.png",
+    "index.html": "/index.html",
+    "main.44be0c7e.css.map": "/static/css/main.44be0c7e.css.map",
+    "main.ef677538.js.map": "/static/js/main.ef677538.js.map",
+    "453.709d376a.chunk.js.map": "/static/js/453.709d376a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44be0c7e.css",
-    "static/js/main.03c660bf.js"
+    "static/js/main.ef677538.js"
   ]
 }
