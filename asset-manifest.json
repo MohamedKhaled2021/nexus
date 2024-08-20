@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nexus-frontend/static/css/main.00643e07.css",
-    "main.js": "/nexus-frontend/static/js/main.508e1886.js",
+    "main.js": "/nexus-frontend/static/js/main.25f5c2ba.js",
     "static/js/453.709d376a.chunk.js": "/nexus-frontend/static/js/453.709d376a.chunk.js",
     "static/media/Home_UP.png": "/nexus-frontend/static/media/Home_UP.5306a7ec419d9d94e9f4.png",
     "static/media/nour.jpg": "/nexus-frontend/static/media/nour.91261d9ad201570d4ba9.jpg",
@@ -13,11 +13,11 @@
     "static/media/linked.png": "/nexus-frontend/static/media/linked.4fb57288580425413d0f.png",
     "index.html": "/nexus-frontend/index.html",
     "main.00643e07.css.map": "/nexus-frontend/static/css/main.00643e07.css.map",
-    "main.508e1886.js.map": "/nexus-frontend/static/js/main.508e1886.js.map",
+    "main.25f5c2ba.js.map": "/nexus-frontend/static/js/main.25f5c2ba.js.map",
     "453.709d376a.chunk.js.map": "/nexus-frontend/static/js/453.709d376a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00643e07.css",
-    "static/js/main.508e1886.js"
+    "static/js/main.25f5c2ba.js"
   ]
 }
